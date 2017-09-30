@@ -1,0 +1,38 @@
+2017-08-27 23:00:36,347 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'default'
+2017-08-27 23:00:36,462 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-6 - Database [default] connected at jdbc:sqlite:db/tracker.db
+2017-08-27 23:00:36,901 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in play-dev-mode-akka.actor.default-dispatcher-6 - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2017-08-27 23:00:37,040 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-6 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-08-27 23:00:37,044 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-6 - Application started (Dev)
+2017-08-27 23:00:37,397 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - TrackData{userName='sss', timeStamp=1503889233533, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:00:38,386 [DEBUG] from application in application-akka.actor.default-dispatcher-4 - TrackData{userName='sss', timeStamp=1503889228524, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=true}
+2017-08-27 23:00:38,742 [DEBUG] from application in application-akka.actor.default-dispatcher-4 - TrackData{userName='sss', timeStamp=1503889238536, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:00:39,388 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - TrackData{userName='sss', timeStamp=1503889228524, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=true}
+2017-08-27 23:00:43,744 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - TrackData{userName='sss', timeStamp=1503889243539, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:00:46,682 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - TrackData{userName='sss', timeStamp=1503889246474, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=true}
+2017-08-27 23:00:48,753 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - TrackData{userName='sss', timeStamp=1503889248542, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:00:53,754 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - TrackData{userName='sss', timeStamp=1503889253544, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:07:01,013 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889620774, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=true}
+2017-08-27 23:07:05,993 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889625786, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:07:10,994 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889630789, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:07:15,993 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889635792, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:08:36,751 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889716541, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=true}
+2017-08-27 23:08:41,752 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889721552, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:08:46,760 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889726554, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:08:51,767 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889731558, latitude=78.63819833333334, longitude=35.779599999999995, distance=0.0, start=false}
+2017-08-27 23:08:56,762 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889736560, latitude=78.59999833333333, longitude=35.779599999999995, distance=4247.441840555764, start=false}
+2017-08-27 23:09:01,772 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889741563, latitude=78.59999833333333, longitude=35.779599999999995, distance=4247.441840555764, start=false}
+2017-08-27 23:09:06,773 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889746566, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:11,770 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889751568, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:16,775 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889756570, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:21,782 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889761573, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:26,782 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889766577, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:31,783 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889771579, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:36,782 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889776582, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:09:41,794 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - TrackData{userName='djsathe', timeStamp=1503889781584, latitude=78.6222, longitude=35.779599999999995, distance=6716.03576696118, start=false}
+2017-08-27 23:10:00,776 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-3 - Stopping server...
+2017-08-27 23:10:00,818 [INFO] from application in pool-4-thread-3 - Shutting down connection pool.
